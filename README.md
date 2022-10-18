@@ -2,7 +2,9 @@
 
 This is an exploration of Streamlit. I built a web app for fare prediction.
 
-Screenshot:
+For model creation, training and testing, check the repo [here](https://github.com/SwamiKannan/NYC-taxi-fares)
+
+App Screenshot:
 <p align="center">
 <img src="https://github.com/SwamiKannan/Fare_Prediction_App/blob/main/app_screenshot.png">
 </p>
