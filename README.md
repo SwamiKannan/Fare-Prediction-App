@@ -1,6 +1,6 @@
 # Fare_Prediction_App
 
-This is an exploration of Streamlit. I built a web app for fare prediction.
+A web app for fare prediction built on top of my machine learning model for predicting NYC cab fares.
 
 For model creation, training and testing, check the repo [here](https://github.com/SwamiKannan/NYC-taxi-fares)
 
